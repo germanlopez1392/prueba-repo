@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../curso_py"
+		},
+		{
+			"path": "../ultimatejs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ultimatejs",
+		"liveServer.settings.port": 5501
+	}
+}
